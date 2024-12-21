@@ -95,7 +95,7 @@ puneetsandher@gmail.com
 [Puneet's Website](https://puneet-sandher.netlify.app/)
 
 
-Sulakshan Sivakumaran 
+** Sulakshan Sivakumaran **
 
 sulakshansivak@gmail.com
 

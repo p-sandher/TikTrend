@@ -86,7 +86,7 @@ Week 12 & Week 14 (July 22 to August 6): Prepare final report and deliverables â
 <!-- CONTACT -->
 ## Contact
 
-Puneet Sandher 
+**Puneet Sandher**
 
 puneetsandher@gmail.com
 
@@ -95,7 +95,7 @@ puneetsandher@gmail.com
 [Puneet's Website](https://puneet-sandher.netlify.app/)
 
 
-** Sulakshan Sivakumaran **
+**Sulakshan Sivakumaran**
 
 sulakshansivak@gmail.com
 

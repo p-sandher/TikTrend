@@ -40,8 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-TikTok Trend Analyzer is an undergraduate capstone project  for CIS*4900 at the University of Guelph, set to be completed by August 10, 2024. This project invovles the development of a machine learning model to identify and predict TikTok trends. After the model has been trained, a user-friendly web application will allow users to search and filter trends by time and category. This project is developed by Sulakshan Sivakumaran and Puneet Sandher, both who have limited experience with machine learning and this project is considered a learning experience. 
-
+TikTok Trend Analyzer leverages machine learning to identify and predict TikTok trends. After the model has been trained, a user-friendly web application will be developed to allow users to search and filter trends by time and category. This project is developed by Sulakshan Sivakumaran and Puneet Sandher, both who are novice to artificial intelligence and are using this project to develop foundational skills.
 
 This repository includes the entire development process including data preprocessing, model training, model finetuning, evaluating models and created graphs, and the final report. 
 
@@ -87,24 +86,25 @@ Week 12 & Week 14 (July 22 to August 6): Prepare final report and deliverables â
 <!-- CONTACT -->
 ## Contact
 
+Puneet Sandher 
+
+puneetsandher@gmail.com
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-<br />
-Puneet Sandher -  puneetsandher@gmail.com
 
-Project Link: [https://github.com/p-sandher/Instagram_Trend_Analyzer](https://github.com/p-sandher/Instagram_Trend_Analyzer)
+Puneet's Website: [https://puneet-sandher.netlify.app/](https://puneet-sandher.netlify.app/)
 
-Website Link: [https://puneet-sandher.netlify.app/](https://puneet-sandher.netlify.app/)
 
-Sulakshan Sivakumaran - sulakshansivak@gmail.com
+Sulakshan Sivakumaran 
 
-Project Link: [https://github.com/SulakshanSiva/Instagram_Trend_Analyzer](https://github.com/SulakshanSiva/Instagram_Trend_Analyzer)
+sulakshansivak@gmail.com
 
-Website Link: [https://sulakshansiva.github.io/Sulakshan/](https://sulakshansiva.github.io/Sulakshan/)
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/sulakshansiva/]
+
+Sulakshan's Website: [https://sulakshansiva.github.io/Sulakshan/](https://sulakshansiva.github.io/Sulakshan/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -115,7 +115,6 @@ ReadME template is from
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->

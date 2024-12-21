@@ -92,16 +92,16 @@ puneetsandher@gmail.com
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Puneet's Website: [https://puneet-sandher.netlify.app/](https://puneet-sandher.netlify.app/)
+[Puneet's Website](https://puneet-sandher.netlify.app/)
 
 
 Sulakshan Sivakumaran 
 
 sulakshansivak@gmail.com
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/sulakshansiva/]
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/sulakshansiva/)
 
-Sulakshan's Website: [https://sulakshansiva.github.io/Sulakshan/](https://sulakshansiva.github.io/Sulakshan/)
+[Sulakshan's Website](https://sulakshansiva.github.io/Sulakshan/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

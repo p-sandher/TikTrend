@@ -48,9 +48,15 @@ This repository includes the entire development process including data preproces
 
 Week 1 (May 1 - May 6): Developing foundational ML and AI knowledge ✅
 
+- [Developed a machine learning model to predict income status](https://github.com/p-sandher/Income-Status-ML)
+
+- [Developed a machine learning model to predict titanic survival](https://github.com/p-sandher/Titanic-Survival-ML)
+
 Week 2 (May 7 - May 11): Architecture design ✅
 
 Week 3 (May 12 - May 18): Find relevant datasets and develop scripts to webscrape data ✅
+
+- Originally, this project was going to focus on predicting Instagram trends but the team pivoted to TikTok. [Here is a link to the POC of Instagram data scrapers.](https://github.com/p-sandher/Instagram-Scrapers)
 
 Week 4 (May 19 to May 26) : Research data preprocessing techniques ✅
 
@@ -65,6 +71,8 @@ Week 8 & Week 9 (June 22 to July 6): Train models ✅
 Week 10 & Week 11 (July 7 to July 21): Finetune and evaluate models ✅
 
 Week 12 & Week 14 (July 22 to August 6): Prepare final report and deliverables ✅
+
+- [Final Report](https://github.com/p-sandher/TikTrend/blob/main/The%20Analysis%20and%20Predictions%20of%20TikTok%20Trends%20Using%20Machine%20Learning.pdf)
 
 
 ### Built With
